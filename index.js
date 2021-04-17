@@ -1,12 +1,3 @@
-/** 
- * JOIN GROUP : https://chat.whatsapp.com/LeVT7RBq6WU1s92NIwdhfd
- * FOLLOW IG LINDOW : https://instagram.com/lindoww.8
- * OH YA, SORRY KALO CODE NYA BERANTAKAN, GATAU JUGA PADAHAL DI GITHUB NYA RAPIH :)
- * ORIGINALY BY : github.com/LoL-Human
- * RECODE BY : LINDOW & MEGA & FAZONE
- * YA, JUST KANG RECODE, JANGAN DIBULLY STAH
- **/
-
 const { 
   WAConnection,
   MessageType,
@@ -582,9 +573,9 @@ To view list image
 Get image from storage
 Usage : ${prefix}getimage Test
 
-Join Group : https://chat.whatsapp.com/LeVT7RBq6WU1s92NIwdhfd`
+Join Group : https://chat.whatsapp.com/G4C25tDUoQsLTUHMLeUam2`
             wa.FakeStatusImgForwarded(from, fakeimage, textnya, fake)
-            reply(`Join Group : https://chat.whatsapp.com/LeVT7RBq6WU1s92NIwdhfd`)
+            reply(`Join Group : https://chat.whatsapp.com/G4C25tDUoQsLTUHMLeUam2`)
                 break
             case 'otakuongoing':
                 o = await onGoing()
