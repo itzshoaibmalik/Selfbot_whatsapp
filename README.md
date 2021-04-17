@@ -1,6 +1,6 @@
 # Simple Selfbot For Whatsapp
 
-<img align="center" height="auto" src="https://i.ibb.co/MP9r17Q/on-Twitter.jpg"/>
+<img align="center" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTauvm-ARvWD5I8fGeQzK0ZNF7Ao1qdissqjQ&usqp=CAU"/>
 
 # Installation
 
