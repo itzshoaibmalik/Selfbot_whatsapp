@@ -27,7 +27,7 @@
 ```
 
 ## Edit config file
-Edit the required value in [`config.json`](https://github.com/itzshoaibmalik/Simple-selfbotwa/blob/master/config.json)
+Edit the required value in [`config.json`](https://github.com/itzshoaibmalik/Whatsapp_Userbot/edit/main/config.json)
 ```json
 {
     "owner": "628xxxxxxx",
