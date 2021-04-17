@@ -112,4 +112,4 @@ Edit the required value in [`config.json`](https://github.com/itzshoaibmalik/Wha
 * AND MORE, CEK SENDIRI!
 
 ## Join Group
-* [`My Group`](#)
+* [`My Group`](https://chat.whatsapp.com/G4C25tDUoQsLTUHMLeUam2)
