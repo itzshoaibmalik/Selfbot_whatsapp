@@ -8,7 +8,7 @@
 ```cmd
 > pkg install git
 > pkg install nodejs
-> git clone https://github.com/megaa4282/Selfbot-whatsapp.git
+> git clone https://github.com/itzshoaibmalik/Selfbot_whatsapp
 > cd Selfbot-whatsapp
 > bash install.sh
 > npm start
@@ -19,7 +19,7 @@
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/megaa4282/Selfbot-whatsapp.git
+> git clone https://github.com/itzshoaibmalik/Selfbot-whatsapp.git
 > cd Selfbot-whatsapp
 > npm i
 > npm start
@@ -27,7 +27,7 @@
 ```
 
 ## Edit config file
-Edit the required value in [`config.json`](https://github.com/Megaa4282/Simple-selfbotwa/blob/master/config.json)
+Edit the required value in [`config.json`](https://github.com/itzshoaibmalik/Simple-selfbotwa/blob/master/config.json)
 ```json
 {
     "owner": "628xxxxxxx",
