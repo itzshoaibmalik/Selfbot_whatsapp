@@ -1,8 +1,6 @@
 # Simple Selfbot For Whatsapp
 
 <img align="center" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTauvm-ARvWD5I8fGeQzK0ZNF7Ao1qdissqjQ&usqp=CAU"/>
-![](https://komarev.com/ghpvc/?username=itzshoaibmalik&color=brightgreen)
-
 # Installation
 
 ## Termux
