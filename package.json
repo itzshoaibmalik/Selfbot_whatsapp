@@ -26,14 +26,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/megaa4282/Simple-selfbotwa.git"
+        "url": "git+https://github.com/itzshoaibmalik/Selfbot_whatsapp"
     },
     "keywords": [
         "selfbot"
     ],
-    "author": "Meguyy",
+    "author": "Shoaib",
     "bugs": {
-        "url": "https://github.com/megaa4282/Simple-selfbotwa/issues"
+        "url": "https://github.com/itzshoaibmalik/Selfbot_whatsapp/issues"
     },
-    "homepage": "https://github.com/Megaa4282/Simple-selfbotwa#readme"
+    "homepage": "https://github.com/itzshoaibmalik/Selfbot_whatsapp#readme"
 }
