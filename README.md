@@ -108,7 +108,12 @@ Edit the required value in [`config.json`](https://github.com/itzshoaibmalik/Wha
 * ayat kursi
 * kisah nabi
 * al qur'an
-* AND MORE, CEK SENDIRI!
+* AND MORE:)
 
-## Join Group
-* [`My Group`](https://chat.whatsapp.com/BuaS0xxEJh4GmewORheDSe)
+## Developer
+* Shoaib Malik😁
+
+## Ping Me..
+* [`Instagram😅`](https://www.instagram.com/itzshoaibmalik/)
+
+### Happy Coding:)
